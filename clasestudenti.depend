@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647358559 source:c:\users\ben\desktop\myassprogramming\clasestudenti\main.cpp
+	<iostream>
+	"data.h"
+
+1647466522 c:\users\ben\desktop\myassprogramming\clasestudenti\include\data.h
+	<iostream>
+
+1647358597 source:c:\users\ben\desktop\myassprogramming\clasestudenti\src\data.cpp
+	"data.h"
+
